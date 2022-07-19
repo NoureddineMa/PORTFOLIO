@@ -1,0 +1,44 @@
+*{
+    font-family : 'poppins'
+}
+.back-pages {
+    background-color : black;
+}
+.own-color {
+    color: #F15A5C;
+}
+.bown-color {
+    background-color: #F15A5C;
+}
+.mbb-5 {
+    margin-bottom: 9rem !important;
+}
+.mtt-5 {
+    margin-top: 6rem !important;
+}
+hr{
+    border: none;
+    border-top: 3px double #F15A5C;
+    color: #F15A5C;
+    overflow: none;
+    text-align: center;
+    height: 5px;
+    width: 280px;
+}
+hr:after {
+    background: #fff;
+    padding: 0 1px;
+    position: relative;
+    top: -13px;
+}
+.pic-s {
+    width: 486px;
+    height: 270px;
+    border-radius : 7px;
+}
+.left {
+    margin-left: 2rem;
+}
+.opa {
+    opacity: 0.6 !important;
+}
